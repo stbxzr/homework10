@@ -12,39 +12,39 @@ describe('Employee', () =>{
     });
 
     // id
-    it('should return..', () => {
+    // it('should return..', () => {
 
-        let employeeName = "";
-        let newEmployee = new Employee("");
-        expect(newEmployee.name).toBe("");
+    //     let employeeId = "";
+    //     let newId = new Employee("");
+    //     expect(newId.id).toBe("");
         
-    });
+    // });
 
     // email
-    it('should return..', () => {
+    // it('should return..', () => {
 
-        let employeeName = "";
-        let newEmployee = new Employee("");
-        expect(newEmployee.name).toBe("");
+    //     let employeeEmail = "";
+    //     let newEmail = new Employee("");
+    //     expect(newEmail.email).toBe("");
         
-    });
+    // });
 
-})  
-
-getName(){
-
-}
-
-getId(){
-
-}
-
-getEmail(){
-
-}
-
-getRole(){
-    return 'Employee'
-} 
+    
+    getName(){
+        
+    }
+    
+    getId(){
+        
+    }
+    
+    getEmail(){
+        
+    }
+    
+    getRole(){
+        return 'Employee'
+    } 
+});  
 
 
